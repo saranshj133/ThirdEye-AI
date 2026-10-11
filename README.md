@@ -75,3 +75,5 @@ Wearable device integration
 
 Voice Input commands to talk to ai and run the whole app
 
+DOWNLOAD:
+Download the complete ThirdEye AI prototype: https://github.com/saranshj133/ThirdEye-AI/releases/tag/v1.0.0
