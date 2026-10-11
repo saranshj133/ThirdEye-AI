@@ -1,4 +1,5 @@
 ThirdEye AI 👁️
+
 ThirdEye AI is an assistive vision project designed to help visually impaired people understand their surroundings through AI-powered object detection, hazard alerts, and voice guidance.
 
 Features
@@ -20,15 +21,18 @@ Requirements
 Install Node.js and Python first.
 
 Installation
+
 Clone the repository and open its folder in Command Prompt.
 
 npm install
+
 Install the Python dependencies:
 
 pip install -r requirements.txt
 Configure the required API credentials and environment variables before running the application.
 
 Run the Project
+
 If start-app.bat is included, run:
 
 start-app.bat
